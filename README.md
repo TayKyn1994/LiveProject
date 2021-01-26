@@ -11,6 +11,7 @@ For this story I was tasked with creating a webpage.
 
 ## Implement a grid system
 For this story I utilized Bootstrap to implement a grid on the webpage. Grids are a very useful way to organize your webpage.
+![bootstrapgrid](https://user-images.githubusercontent.com/66887167/105902201-2a754a00-5fd3-11eb-8930-df35ac641d30.png)
 
 ## Create a signup form
 In story 3 I created form in a modal. First, I created a button that opens the modal created with Bootstrap when clicked. In that modal is the form that a user can interact with. It was a contact form, so it had informational input fields such as name, email, phone number, etc. The form was styled with CSS and Bootstrap.
